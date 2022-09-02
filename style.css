@@ -5,7 +5,8 @@
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   }
   body {
-    background-color: rgb(76, 195, 235);
+    background-color:rgb(174, 251, 251)
+
   }
   .head {
     margin-top: 1rem;
@@ -44,7 +45,7 @@
     margin-top: 10px;
   }
   .btn {
-    background-color: rgb(133, 185, 55);
+    background-color: rgb(138, 177, 83);
     color: white;
     padding: 10px 20px;
     font-size: large;
@@ -57,6 +58,7 @@
   }
   
   .table {
+    background-color: rgb(160, 160, 251);
     border: 2px solid black;
     margin: 40px auto;
   }
